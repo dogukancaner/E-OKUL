@@ -1,0 +1,16 @@
+C:\Users\Administrator\Desktop\C# Udemy Çalışmalarım\BonusOkulProje\BonusOkulProje\bin\Debug\BonusOkulProje.exe.config
+C:\Users\Administrator\Desktop\C# Udemy Çalışmalarım\BonusOkulProje\BonusOkulProje\bin\Debug\BonusOkulProje.exe
+C:\Users\Administrator\Desktop\C# Udemy Çalışmalarım\BonusOkulProje\BonusOkulProje\bin\Debug\BonusOkulProje.pdb
+C:\Users\Administrator\Desktop\C# Udemy Çalışmalarım\BonusOkulProje\BonusOkulProje\obj\Debug\BonusOkulProje.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\C# Udemy Çalışmalarım\BonusOkulProje\BonusOkulProje\obj\Debug\BonusOkulProje.Form1.resources
+C:\Users\Administrator\Desktop\C# Udemy Çalışmalarım\BonusOkulProje\BonusOkulProje\obj\Debug\BonusOkulProje.Properties.Resources.resources
+C:\Users\Administrator\Desktop\C# Udemy Çalışmalarım\BonusOkulProje\BonusOkulProje\obj\Debug\BonusOkulProje.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\C# Udemy Çalışmalarım\BonusOkulProje\BonusOkulProje\obj\Debug\BonusOkulProje.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\C# Udemy Çalışmalarım\BonusOkulProje\BonusOkulProje\obj\Debug\BonusOkulProje.exe
+C:\Users\Administrator\Desktop\C# Udemy Çalışmalarım\BonusOkulProje\BonusOkulProje\obj\Debug\BonusOkulProje.pdb
+C:\Users\Administrator\Desktop\C# Udemy Çalışmalarım\BonusOkulProje\BonusOkulProje\obj\Debug\BonusOkulProje.FrmOgrenciNotlar.resources
+C:\Users\Administrator\Desktop\C# Udemy Çalışmalarım\BonusOkulProje\BonusOkulProje\obj\Debug\BonusOkulProje.FrmOgretmen.resources
+C:\Users\Administrator\Desktop\C# Udemy Çalışmalarım\BonusOkulProje\BonusOkulProje\obj\Debug\BonusOkulProje.FrmKulup.resources
+C:\Users\Administrator\Desktop\C# Udemy Çalışmalarım\BonusOkulProje\BonusOkulProje\obj\Debug\BonusOkulProje.FrmDersler.resources
+C:\Users\Administrator\Desktop\C# Udemy Çalışmalarım\BonusOkulProje\BonusOkulProje\obj\Debug\BonusOkulProje.FrmOgrenci.resources
+C:\Users\Administrator\Desktop\C# Udemy Çalışmalarım\BonusOkulProje\BonusOkulProje\obj\Debug\BonusOkulProje.FrmSinavNotlar.resources
